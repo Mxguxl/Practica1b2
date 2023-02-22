@@ -6,8 +6,6 @@ main{
   
   
   
-/*fin de sección de variables*/
+  /*Fin de sección de variables*/
   
 }
-
-
