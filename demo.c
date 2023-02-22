@@ -1,6 +1,6 @@
 #include <studio.h>
 
-ma{
+main{
 
 /*Sección de variables*/
   
