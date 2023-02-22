@@ -1,6 +1,6 @@
 #include <studio.h>
 
-mai{
+main{
 
 
 }
